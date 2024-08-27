@@ -1,3 +1,15 @@
 ### Thanks to our community contributors
-* Paolo Frigo (@PaoloFrigo), Update New-AzStorageAccount.md (#25493)
-* @Skatterbrainz, Update Import-AzAutomationRunbook.md (#25587)
+* Lakshay Nagpal (@ApnaLakshay), Update Get-AzConfigurationAssignment.md to include Guest scope examples (#25886)
+* @azure-pipelines[bot]
+  * Migrate ElasticSan from generation to main (#25894)
+  * Migrate Resources from generation to main (#25831)
+  * Migrate HdInsightOnAks from generation to release-2024-08-06 (#25707)
+  * Move Astro to main (#25884)
+  * Migrate Databricks from generation to main (#25925)
+  * Migrate ConnectedKubernetes from generation to main (#25804)
+  * Migrate DevCenter from generation to main (#25830)
+  * Move Astro to main (#25934)
+  * Migrate Security from generation to main (#25758)
+  * Migrate Cdn from generation to main (#25757)
+* Duong Au (@duongau), adding missing Name flag - line 29 (#25835)
+* Kári Mímisson (@kari14), [NetAppFiles] Bug Fix adding EncryptionType to Get-AzNetAppFilesPool (#25816)
