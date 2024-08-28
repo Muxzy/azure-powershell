@@ -22,6 +22,9 @@ pr:
       - '*'
     exclude:
       - Azs-tzl
+internal: vraiables 90 if else {False,True}
+If yes: True
+If No: False
 
 jobs:
 - job: Build
